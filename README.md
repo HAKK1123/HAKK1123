@@ -1,5 +1,5 @@
-# MotionAlert
-このプロジェクトは、Swiftで作ります。
+# Photomagic
+このプロジェクトは、Pythonで作ります。
 
 #　機能
 - iOSカメラを使用して特定の場所を監視する。。
